@@ -1,0 +1,15 @@
+[zh]
+title = "_core"
+languageName = "中文"
+weight = 2
+languagedir = "ltr"
+contentdir = "content/zh"
+
+[en]
+  title = "_core"
+  languageName = "English"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/en"
+
+
