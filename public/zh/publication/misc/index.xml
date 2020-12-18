@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>misc on _core</title>
+    <link>http://example.org/zh/publication/misc/</link>
+    <description>Recent content in misc on _core</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>smoke.mvp@gmail.com (smoke)</managingEditor>
+    <webMaster>smoke.mvp@gmail.com (smoke)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved - &lt;a href=&#39;&#39; style=&#39;color:#f8f8f8&#39;&gt;自由转载 - 非商用 - 非衍生 - 保持署名&lt;/a&gt;&lt;br&gt;</copyright>
+    <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="http://example.org/zh/publication/misc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Book Review: Duis vulputate</title>
+        <link>http://example.org/zh/publication/misc/misc_any_folder_name_1/</link>
+        <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+        <author>smoke.mvp@gmail.com (smoke)</author>
+        <atom:modified>Fri, 18 Dec 2020 12:41:34 +0800</atom:modified>
+        <guid>http://example.org/zh/publication/misc/misc_any_folder_name_1/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>smoke</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
